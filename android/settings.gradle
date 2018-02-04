@@ -1,0 +1,3 @@
+rootProject.name = 'React_class1'
+
+include ':app'
